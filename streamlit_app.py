@@ -1,12 +1,10 @@
 import streamlit as st
-# To make things easier later, we're also importing numpy and pandas for
-# working with sample data.
 import numpy as np
 import pandas as pd
 #import plotly.express as px
 #from plotly.subplots import make_subplots
 #import plotly.graph_objects as go
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import altair as alt
 
 from PIL import Image

@@ -3,9 +3,9 @@ import streamlit as st
 # working with sample data.
 import numpy as np
 import pandas as pd
-import plotly.express as px
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
+#import plotly.express as px
+#from plotly.subplots import make_subplots
+#import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import altair as alt
 
